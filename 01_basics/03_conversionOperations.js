@@ -23,3 +23,14 @@ let numberId = 123445
 let stringNumberId = String(numberId)
 console.log(stringNumberId)
 console.log(typeof stringNumberId)
+
+// Operations starts from here 
+
+str1 ="Soumya "
+str2 ="Ranjan"
+str3 = str1+str2
+console.log(str3) // Soumya Ranjan
+console.log("1"+2) //12
+console.log(1+"2") //12
+console.log("1"+2+2) // 122
+console.log(1+2+"2") //32
